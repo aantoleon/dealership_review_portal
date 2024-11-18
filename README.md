@@ -1,0 +1,1 @@
+This project is a web-based platform that allows users to leave reviews for various car dealerships. It helps customers share their experiences and provides valuable insights to others when choosing a dealership.
